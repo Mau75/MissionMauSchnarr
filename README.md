@@ -1,2 +1,1 @@
-# schnarri
-schnarri und maui
+# schnarri und maui
